@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\marco\source\repos\EjerciciosPractica\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll
